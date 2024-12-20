@@ -16,7 +16,7 @@ This project is a **GitHub User Search App** that allows users to quickly find G
 - Clear search history option.
 
 ## Live Demo
-[GitHub User Search App Demo](https://your-vercel-link.vercel.app/)
+[GitHub User Search App Demo](https://github-profile-search-app-tawny.vercel.app/)
 
 ## Usage
 1. Clone or download the project.
